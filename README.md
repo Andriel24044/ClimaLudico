@@ -5,7 +5,9 @@ Projeto voltado para a informação de possíveis atividades lúdicas compatíve
 ## Para compreender melhor...
 
   O trabalho desenvolvido é um código responsável por devolver ao usuário, de acordo com seu interesse regional e temporal, progamações lúdicas para serem realizadas dependendo do padrão dos parâmetros climáticos selecionados pelos desenvolvedores como relevantes para estabelecer critérios de análise do cenário. As programações vão ser indicadas em gráficos que também carregarão informações climáticas para justificar as sugestões de entretenimento.
+  
   Para utilizar o código, basta posicionar o mouse no nome do local (capital) de interesse e então será gerado um gráfico geral que informará os dados para os meses do ano, que ao ser selecionado o de interesse, mostrará apenas as noções para as médias para cada dia do mês. Como essas informações ainda não indicarão o que o usuário visa, é necessário escolher um período do dia de enfoque para ser possível visualizar a média dos dados e então a atividade de entretenimento compatível com o cenário.
+  
   Os parâmetros selecionados foram: Temperatura, Umidade e Velocidade de vento. A lógica adotada pelo grupo foi de serem encarados como consideráveis influências na rotina dos indivíduos.  
   (Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste).
 
