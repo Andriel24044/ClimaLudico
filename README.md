@@ -20,8 +20,6 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 De que coisas você precisa para instalar o software e como instalá-lo?
 Para que seja possível possuir o código expresso em gráfico desenvolvido em funcionamente na sua própria máquina, é necessário a disponibilidade de alguns fatores: um banco de dados climáticos, que no caso o utilizado foi o do INMET (Instituto Nacional de Metereologia), de um caderno de programação, o adotado foi o python, e da biblioteca Plotly no próprio python. Por meio do funcionamenteo em conjunto dessas ferramentas, será possível obter o retorno de atividades recreativas recomendadas ao usuário para realizar em harmonia com o padrão climático identificado.
  
-![Static Badge](https://img.shields.io/badge/Andriel24044-blue)
- 
 ### 🔧 Instalação
  
  
