@@ -37,15 +37,16 @@ Para que seja possível possuir o código expresso em gráfico desenvolvido em f
 
 Por meio do funcionamenteo em conjunto dessas ferramentas, será possível obter o retorno de atividades recreativas recomendadas ao usuário para realizar em harmonia com o padrão climático identificado.
 
-
-
 ### ✒️ Autores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/CaioRuas24010" width=115><br><sub>Caio Ruas</sub>](https://github.com/KatarinaVilarins) |[<img loading="lazy" src="https://avatars.githubusercontent.com/KatarinaVilarins" width=115><br><sub>Guilherme Lima</sub>Katarina da Silva Vilarins](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+
+| <img loading="lazy" src="https://avatars.githubusercontent.com/CaioRuas24010" width=115><br> <sub>Caio Ruas </sub>|  <img loading="lazy" src="https://avatars.githubusercontent.com/KatarinaVilarins" width=115><br><sub>Katarina Vilarins</sub> |  <img loading="lazy" src="https://avatars.githubusercontent.com/Andriel24044" width=115><br><sub>Andriel Silva</sub> | <img loading="lazy" src="https://avatars.githubusercontent.com/Weigson" width=115><br><sub>Weigson Oleriano</sub> |
+| :---: | :---: | :---: | :---: |
+
 
 ### Atribuições
-`Ideia do projeto` : Katarina Vilarins
-`Desenvolvimento do código` : Andriel Silva, Caio Ruas, Weigson Oleriano, Katarina Vilarins
-`Escrita do GitHub` : Katarina Vilarins, Weigson Oleriano, Caio Ruas e Andriel Silva
+#### `Ideia do projeto` : Katarina Vilarins
+#### `Desenvolvimento do código` : Andriel Silva, Caio Ruas, Weigson Oleriano, Katarina Vilarins
+#### `Escrita do GitHub` : Katarina Vilarins, Weigson Oleriano, Caio Ruas e Andriel Silva
 
  ![WhatsApp Image 2024-06-18 at 11 05 41](https://github.com/Andriel24044/ClimaLudico/assets/172425306/575b8f88-beba-4392-96d9-fe52a58799ff)
  
