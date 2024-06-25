@@ -18,7 +18,7 @@ Projeto voltado para a informação de possíveis atividades lúdicas compatíve
 
  `Selecionar Capital`: Primeiro basta escolher a cidade de interesse (só pode ser uma das capitais), usaremos Brasília para tornar a explicação mais visual.
 
- `Escolher o período de interesse`: É necessário, então, que o usuário opte por um mês e um período em que gostaria de obter os valores dos parâmetros disponíveis. Escolheremos Janeiro e o período da manhã para analisar.
+ `Escolher o período de interesse`: É necessário, então, que o usuário opte por um mês, um período e um diaem que gostaria de obter os valores dos parâmetros disponíveis. Escolheremos Janeiro e o período da manhã para analisar.
 
  `Gráfico será acessado`: Será visto o gráfico que representa o padrão de temperatura e o que mostra a precipitação. No caso do cenário fictício que adotamos, será visualizado o padrão desses parâmetros para o região de Brasília.
 
