@@ -28,20 +28,36 @@ Projeto voltado para a informação de possíveis atividades lúdicas compatíve
  
 Para que seja possível possuir o código expresso em gráfico desenvolvido em funcionamente na sua própria máquina, é necessário a disponibilidade de alguns fatores:
 
-`Um banco de dados climáticos`: que no caso o utilizado foi o do INMET (Instituto Nacional de Metereologia)
+`Um banco de dados climáticos`: que no caso o utilizado foi o do INMET (Instituto Nacional de Metereologia);
 
-`Um caderno de programação`:  o adotado foi o python em sua versão 3.11.6
+`Um caderno de programação`:  o adotado foi o python em sua versão 3.11.6;
 
-`Bibliotecas`: Plotly Python Graphing Library, Dash Documentation, User Guide | Plotly
+`Bibliotecas`: Plotly Python Graphing Library, Dash Documentation, Skicit-Learn, Pillow, OS, Glob e Pandas;
 
+`Referências`: 
 
+Instituto Nacional de Meteorologia - INMET. Disponível em: <https://portal.inmet.gov.br/dadoshistoricos>. ​
+
+PLOTLY. Plotly Python Graphing Library. Disponível em: <https://plotly.com/python/>. ​
+
+Dash Documentation & User Guide | Plotly. Disponível em: <https://dash.plotly.com/>. ​
+
+SCIKIT-LEARN. scikit-learn: machine learning in Python. Disponível em: <https://scikit-learn.org/stable/>. ​
+
+GOOGLE. ‎Gemini - chat to supercharge your ideas. Disponível em: <https://gemini.google.com/>. ​
+
+OPENAI. ChatGPT (2024). Disponível em: <https://openai.com/>. ​
+
+ALVES, D. C. A Importância de Brincar para a Saúde Mental da Criança. Disponível em: <https://institutoalceugiraldi.com.br/a-importancia-de-brincar-para-a-saude-mental-da-crianca/>. Acesso em: 25 jun. 2024. ​
+
+HASHTAG PROGRAMAÇÃO. Criando Dashboards em Python com Dash e Plotly. Disponível em: <https://www.youtube.com/watch?v=aS64PvDqCbU&t=2473s>. Acesso em: 25 jun. 2024. 
 
 
 Por meio do funcionamenteo em conjunto dessas ferramentas, será possível obter o retorno de atividades recreativas recomendadas ao usuário para realizar em harmonia com o padrão climático identificado.
 
 ### ✒️ Autores
 
-| <img loading="lazy" src="https://avatars.githubusercontent.com/CaioRuas24010" width=115><br> <sub>Caio Ruas </sub>|  <img loading="lazy" src="https://avatars.githubusercontent.com/KatarinaVilarins" width=115><br><sub>Katarina Vilarins</sub> |  <img loading="lazy" src="https://avatars.githubusercontent.com/Andriel24044" width=115><br><sub>Andriel Silva</sub> | <img loading="lazy" src="https://avatars.githubusercontent.com/Weigson" width=115><br><sub>Weigson Oleriano</sub> |
+| <img loading="lazy" src="https://avatars.githubusercontent.com/CaioRuas24010" width=115><br> <sub>Caio Ruas<br> [Github](https://github.com/CaioRuas24010) </sub>|  <img loading="lazy" src="https://avatars.githubusercontent.com/KatarinaVilarins" width=115><br><sub>Katarina Vilarins<br> [GitHub](https://github.com/KatarinaVilarins) </sub> |  <img loading="lazy" src="https://avatars.githubusercontent.com/Andriel24044" width=115><br><sub>Andriel Silva<br> [Github](https://github.com/Andriel24044) </sub> | <img loading="lazy" src="https://avatars.githubusercontent.com/Weigson" width=115><br><sub>Weigson Oleriano<br> [GitHub](https://github.com/Weigson) </sub> |
 | :---: | :---: | :---: | :---: |
 
 
