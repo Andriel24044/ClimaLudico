@@ -13,7 +13,6 @@ Projeto voltado para a informação de possíveis atividades lúdicas compatíve
    Os parâmetros selecionados foram: Precipitação e Temperatura média prevista. A lógica adotada pelo grupo foi de serem encarados como consideráveis influências na rotina dos indivíduos.  
    Esses dados tratados pela biblioteca, serão possíveis de acessar através da utilização de um site para pesquisa de sugestões de atividades recreativas, do qual após feita a pesquisa citada acima, as sugestôes de atividades serão mostradas ao usuário para que ele possa decidir quais delas realizar conforme o local, mês e momento em que escolher. Além dos parâmetros climáticos selecionados, o código fará as medias desses dados conforme as horas do dia, que serão agrupadas nos perídos manhã (06:00 às 12:00), tarde (12:00 às 18:00) e noite (18:00 à 00:00).
   
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
  
 ### 🧰 Funcionamento
 
