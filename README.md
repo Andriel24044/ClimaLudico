@@ -32,7 +32,10 @@ Para que seja possível possuir o código expresso em gráfico desenvolvido em f
 
 `Um caderno de programação`:  o adotado foi o python em sua versão 3.11.6
 
-`Biblioteca Plotly`: no próprio python. 
+`Bibliotecas`: Plotly Python Graphing Library, Dash Documentation, User Guide | Plotly
+
+
+
 
 Por meio do funcionamenteo em conjunto dessas ferramentas, será possível obter o retorno de atividades recreativas recomendadas ao usuário para realizar em harmonia com o padrão climático identificado.
 
